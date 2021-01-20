@@ -5,6 +5,7 @@ categories: techniques studying understanding box-ticking
 description: "Something to do before you start any piece of school work"
 type: study
 order: 1
+published: false
 ---
 Part of the "faking it" guide 
 
