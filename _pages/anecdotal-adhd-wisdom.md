@@ -4,7 +4,7 @@ title: "ADHD Wisdom"
 author_profile: true
 permalink: /anecdotal-adhd-wisdom/
 ---
-<em>Young people with ADHD are some of the funniest, most creative people I've ever met. They also have ways of observing themselves and their frustrations that cut straight to the bone. Here's some of their assorted wisdom that I've collected over the years.</em>
+<em>Young people with mental health struggles are some of the funniest, most creative people I've ever met. They also have ways of observing themselves and their frustrations that cut straight to the bone. Here are some pieces of assorted wisdom that may ring true to you too.</em>
 
 {% assign n = site.wisdom | size %}
 {% assign wisdom = site.wisdom | sample: n %}
