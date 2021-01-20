@@ -6,3 +6,37 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.anecdote-card{
+	padding: 15px;
+	border-radius: 10px;
+	display:block;
+	&:hover>.anecdote-tweet {
+                    visibility: visible;
+                }
+}
+.anecdote-text{float:right;font-size: 66%;margin-top: -10px;}
+
+$colors: #1ABC9C,#16A085,#2ECC71,#27AE60,#3498DB,#2980B9,#9B59B6,#8E44AD,#34495E,#2C3E50,#F1C40F,#F39C12,#E67E22,#D35400,#E74C3C,#C0392B,#BDC3C7,#95A5A6,#7F8C8D;
+$repeat: 20;
+
+@for $i from 1 through $repeat {
+	$number: random(length($colors));
+    .anecdote-card:nth-child(#{length($colors)}n+#{$i}) {
+        border: 5px solid lighten(nth($colors, $number), 20%);
+        &:hover{background-color:lighten(nth($colors, $number), 45%);cursor:pointer;}
+
+    }
+}
+
+ .anecdote-tweet {
+                    position: relative;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    bottom: 0;
+                    z-index: 9999;
+                    color: black;
+                    visibility: hidden;
+                }
+.titleize{text-transform:capitalize !important;}

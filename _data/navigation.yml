@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  # - title: "Quick-Start Guide"
+    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: ""
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Parents' Guide"
+    url: /add-help-for-parents/
+  - title: "Hacks & Resources"
+    url: /hacks-and-resources-for-add-adhd-study-skills/
+  # - title: "Hacks"
+  #   url: /hacks-for-add-adhd/
+  # - title: "Resources"
+  #   url: /helpful-resources/
+  - title: "Testimonials"
+    url: /testimonials/
+  - title: "Wisdom"
+    url: /anecdotal-adhd-wisdom/

@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Student Support with Jonathan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jonathan Walton"
+description              : "The professional homepage of Jonathan Walton, who mentors adults and older children with ADHD, self-esteem issues and overall study skills that can be applied in multiple areas of life."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Meet Jonathan"
+  avatar           : "/assets/images/JW-portrait-sq.jpg"
+  bio              : "Welcome! I specialise in helping teenagers and young adults who have difficulties with concentration, motivation and getting work done. \n\nI'm also a lead contributor to <a style='color:#4e91a5 !important;' href='https://www.recoverycollegeonline.co.uk/music-for-wellbeing/'>Music For Wellbeing</a>, the pioneering NHS online mental health resource for anxiety and relaxation."
+  location         : "UK / EU"
   email            :
   links:
     - label: "Email"
@@ -206,7 +206,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:tags/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -219,6 +219,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -246,16 +247,15 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - all
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -265,6 +265,26 @@ compress_html:
   ignore:
     envs: development
 
+include: ["_pages","_pages/*" ]
+
+collections:
+  guide:
+    output: true
+    permalink: /:collection/:name
+  stuff:
+    output: false
+    permalink: /:collection/:name
+  techniques:
+    output: true
+    permalink: /:collection/:name
+  reading:
+    output: false
+  watching:
+    output: true
+  testimonials:
+    output: false
+  wisdom:
+    output: false
 
 # Defaults
 defaults:
@@ -279,3 +299,49 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: guide
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: stuff
+    values:
+      layout: single
+      author_profile: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: techniques
+    values:
+      layout: single
+      author_profile: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: watching
+    values:
+      layout: single
+      author_profile: true
+      comments: # true
+      share: true
+      related: true
+  # - scope:
+  #     path: ""
+  #     type: reading
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     comments: # true
+  #     share: true
+  #     related: true

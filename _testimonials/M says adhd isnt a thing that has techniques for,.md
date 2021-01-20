@@ -1,0 +1,49 @@
+M says adhd isnt a thing that has techniques for, your thing is not a manual it is about looking at human part, it is not a machine like an engineer
+its not like a cold, which is common, it is 
+
+adhd isnt lived like this, 
+what is adhd, it is the person's behaviour, it is a personality type, the person is made this way, it is part of all their char and being, so you start with the assumption that this person is like this, not that this person has a cold that makes them cough, most often ppl who work with this, they want to suppress the cough, 
+
+my persepctive is a far more human one, not about dealing with it or mititgating but accepting it and seeing what life looks like afterwards,
+you can get treatment and be different, or you can accept how you are, and accept that you are who you are, and see what life looks like going forwards from this
+
+this is what I do
+
+with some ppl i work with, i find ways to tailor their life or tasks to them, 
+
+it could be as simple as motivation, hanging oit, meanign through connection
+accepting he needs socially motivation, external motivation, affection in the process, 
+
+with M its the same, but i will fin dhte things im good for, in both cases it is about accpeting how the person is, and the dissonance before that is that the partens and kids dont accept how kids are, and the life has to be like this
+
+my shtick is accpeting it, it is not an illness, it is just a way of being, one of the first convos that we had - what if we change the way of looking at it, i come in wanting to shift paradigms
+
+parents have v clear what is clear and wat is not, and this contaminates the kid, so i humanise it
+
+realistically what can therapy do for someone with ADHD? Its a stupid idea, its like going to hterapy to treat homosexuality.
+
+for a long time we thought it was a treateable thign, to remove sth from a person... you have made me look at it dfferently i am the way i am, accepting this, i know how it is that i am going to do the things i do, i know more cleraly what to ask of myself,
+
+lots of time with adhd lots of times the kid dont know what to ask of themselves, as the paretns mould that for you, it i sinherited or learnt from them
+
+at the end of the day, if you accept and 
+
+first step you acccept that you have it
+second you forget you have it and you go on
+naming it is counterproductive as it frames it as a disorder
+i would like people to do the things they want to do
+
+if they did what the thing was in their chest what they do there woud be no ADHD as there would be no performance issues
+
+what you bring is eeing adhd as ppl who require concrete and personal meaningfulness int the things they do. it is a v subjective meaningfulness. it is do with differences in what people think is meaninggul
+some ppl cant do things that dont mean anyhiting to them
+
+a lot of ppl can find meaning outside of themselves whih is why they end up doing bullshit things, they can scrape enough meaning from things outside.
+
+so i would ask parents what is a useless thing to do?
+then i would ask them how they feel if they would have to do that thing?
+That is what ADHD is like,,, except maybe they dont conceptualise it as useless, but thats the experience of having adhd
+
+the crux of it is meaning and 
+meaningfulness... different sources of meaningfulness, eg someone who is into getting richm they get meaning from that gaol, but if for you it doesnt have meaning, then theres nothing you can do to do it, you have to pursue something esle
+
