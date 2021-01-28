@@ -22,8 +22,8 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Jonathan Walton"
 description              : "The professional homepage of Jonathan Walton, who mentors adults and older children with ADHD, self-esteem issues and overall study skills that can be applied in multiple areas of life."
 url                      : "https://lemez.github.io"
-baseurl                  :  "/support-for-students"
-repository               :  "lemez/support-for-students"
+baseurl                  :  "/add-adhd-study-skills-support"
+repository               :  "lemez/add-adhd-study-skills-support"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
