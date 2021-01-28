@@ -18,7 +18,7 @@ permalink: /add-help-for-parents/
 <ul>
 {% endif %}
 {% for page in pages %}
-<li style="margin-top:1em;font-weight:400;"><a style="text-decoration: none;" href="{{ page.url }}">{{ page.title }}</a></li>
+<li style="margin-top:1em;font-weight:400;"><a style="text-decoration: none;" href="{{ site.baseurl }}{{ page.url }}" attr="{{ site.baseurl }}">{{ page.title }}</a></li>
 {% endfor %}
 {% if pagessize == 1 %}
 </ul>
