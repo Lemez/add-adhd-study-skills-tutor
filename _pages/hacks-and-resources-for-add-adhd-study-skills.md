@@ -10,10 +10,10 @@ permalink: /hacks-and-resources-for-add-adhd-study-skills/
 <h2 class="titleize">{{type.name  | capitalize }} Hacks</h2>
 {% assign ordered = type.items | sort: "order" %}
 {% for item in ordered %}
-{% if item.link==true %}
+{% if item.link %}
 <h3><a href="{{ item.link}}" target="_blank">{{ item.title }}</a></h3>
 {% else %}
-<h3><a href="{{ item.url}}" target="_blank">{{ item.title }}</a></h3>
+<h3><a href="{{ site.baseurl }}{{ item.url}}" target="_blank">{{ item.title }}</a></h3>
 {% endif %}
 {{item.description}}
 {% endfor %}
