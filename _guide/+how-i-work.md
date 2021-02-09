@@ -4,7 +4,7 @@ title:  "My Mentoring Philosophy and Core Principles"
 date:   2020-10-12 10:05:40 +0200
 categories: understanding add adhd distractions goals
 type: "My Approach"
-order: 1
+order: 2
 ---
 
 My goal in working with your child is to get them to the point of being able to manage alone, without extra support from me or anyone else. 

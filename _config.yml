@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Support For Students"
+title                    : "ADHD / Study Skills / Tutoring"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jonathan Walton"
 description              : "The professional homepage of Jonathan Walton, who mentors adults and older children with ADHD, self-esteem issues and overall study skills that can be applied in multiple areas of life."
 url                      : "https://lemez.github.io"
-baseurl                  :  "/add-adhd-study-skills-support"
-repository               :  "lemez/add-adhd-study-skills-support"
+baseurl                  :  "/add-adhd-study-skills-tutor"
+repository               :  "lemez/add-adhd-study-skills-tutor"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Meet Jonathan"
   avatar           : "/assets/images/JW-portrait-sq.jpg"
-  bio              : "Welcome! I specialise in helping teenagers and young adults who have difficulties with concentration, motivation and getting work done. \n\n I tutor across a <a style='color:#4e91a5 !important;' href='/experience-and-subject-areas/'>wide range of subjects</a> and levels. \n\n I'm also a lead contributor to <a style='color:#4e91a5 !important;' href='https://www.recoverycollegeonline.co.uk/music-for-wellbeing/'>Music For Wellbeing</a>, the pioneering NHS online mental health resource for anxiety and relaxation.  \n\n I am represented by the fantastic team at Osborne Cawkwell Tuition."
+  bio              : "Welcome! I help teenagers and young adults who have difficulties with concentration, motivation and getting work done. \n\n I tutor across a <a style='color:#4e91a5 !important;' href='/experience-and-subject-areas/'>wide range of subjects</a> and levels. \n\n I'm also a lead contributor to <a style='color:#4e91a5 !important;' href='https://www.recoverycollegeonline.co.uk/music-for-wellbeing/'>Music For Wellbeing</a>, the pioneering NHS online mental health resource for anxiety and relaxation.  \n\n I am proud to be part of the team at Osborne Cawkwell Tuition."
   location         : "UK / EU"
   email            :
   links:

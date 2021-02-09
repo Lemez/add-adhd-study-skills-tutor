@@ -4,6 +4,8 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: ""
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Experience"
+  #   url: /experience-and-subject-areas/
   - title: "Parents' Guide"
     url: /add-help-for-parents/
   - title: "Hacks & Resources"
@@ -16,5 +18,3 @@ main:
     url: /testimonials/
   - title: "Wisdom"
     url: /anecdotal-adhd-wisdom/
-  - title: "Experience"
-    url: /experience-and-subject-areas/

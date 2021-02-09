@@ -27,7 +27,7 @@ permalink: /hacks-and-resources-for-add-adhd-study-skills/
 
 <h2>Watching</h2>
  {% for item in site.watching %}
-<h3><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h3>
+<h3><a href="{{ site.baseurl }}{{ item.url }}" target="_blank">{{ item.title }}</a></h3>
 {{item.description}}
 {% endfor %}
 

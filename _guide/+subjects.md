@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Experience as a Tutor and Mentor"
+title: "Experience & Background"
 toc: true
 author_profile: true
 type: "My Approach"

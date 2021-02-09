@@ -4,7 +4,7 @@ title:  "What I Do - A Student's View"
 date:   2020-10-12 10:05:40 +0200
 categories: understanding add adhd distractions goals
 type: "My Approach"
-order: 2
+order: 3
 ---
 
 While making this website, I asked one of my former students to describe how I work and what I do. Here is what he said:
